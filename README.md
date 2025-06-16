@@ -18,15 +18,15 @@ Pull-to-Refresh: Swipe down to refresh news on the main screen.
 
 ## Screenshots
 
-![Login Page](assets/images/login.png)
+![Login Page](assets/images/Login.png)
 ![bookmarks Page](assets/images/bookmarks.png)
 ![article Page](assets/images/article.png)
 ![news Page](assets/images/news.png)
 
 ## Setup Instructions
-Requirements:
+Requirements: 
 Latest Flutter SDK
- Android Studio with Flutter and Dart plugins
+Android Studio with Flutter and Dart plugins
 Internet connection to fetch news
 
 ## Getting Started
@@ -59,8 +59,3 @@ shared_preferences	: Saves login info and bookmarks locally
 webview_flutte :Opens the full article inside the app
 intl: Formats dates to be user-friendly
 cached_network_image: Loads images faster and saves them for reuse
-
-
-
-
-
